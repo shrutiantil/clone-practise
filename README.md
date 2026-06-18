@@ -1,0 +1,2 @@
+# clone-practise
+amazon clone
