@@ -87,4 +87,158 @@ font-weight: 700;}
 /**2nd LINE START panel**/ 
 
 .panel{height: 40px;
-background-color: #222f3d;}
+background-color: #222f3d;
+display: flex;
+color: white;
+align-items: center;
+justify-content: space-evenly;}
+
+.panel-ops p{display: inline;
+margin: 15px;}
+
+.panel-ops{width: 70%;
+font-size: 0.85rem;}
+
+.panel-deals{font-size: 0.9rem;
+font-weight: 700;}
+
+
+/**hero section**/
+
+.hero-section{background-image: url("https://m.media-amazon.com/images/I/71QcgptqadL._SX3000_.jpg");
+height: 380px;
+background-size: cover;
+display: flex;
+justify-content: center;
+align-items: flex-end;}
+
+.hero-msg{background-color: white;
+color: black;height: 40px;
+display: flex;
+align-items: center;
+justify-content: center;
+font-size: 0.85rem;
+width: 80%;
+margin-bottom: 25px;}
+
+.hero-msg a{color: #007185;}
+
+/**shop-section**/
+
+.shop-section{display: flex; 
+justify-content: space-evenly;
+background-color: #e2e7e6;}
+
+.box{height: 350px;
+border: 2px solid black;
+width: 23%;
+background-color: white;}
+
+.shop-section h2{margin-top:10px;
+font-size: 22px;}
+
+.box-img1{background-image: url("https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Events/2026/Gaming_26/Fuji_Gaming_SingleImageCard_C-1._SY304_CB762596570_.jpg");
+height: 220px;
+width: 300px;
+background-size: cover;
+background-repeat: no-repeat;
+margin-left: 25px;
+margin-top: 35px;}
+
+.box1 p{ color: #007185;
+margin-top: 15px;}
+
+.box-img2{background-image: url("https://images-na.ssl-images-amazon.com/images/G/01/melody/uploads/46cb4ac0-8a61-4c67-ad3a-af38c872fa0b_MuseDesktop372X232_1X/AIS_FDay_2026_02_Fday_01_Muse_Prod_melody_homepage_372x232_1X._SY116_CB780692195_.jpg");
+height: 200px;
+width: 300px;
+background-size: cover;
+background-repeat: no-repeat;
+margin-left: 25px;
+margin-top: 35px;}
+
+.box2 p{ color: #007185;
+margin-top: 27px;}
+
+
+.box-img3{background-image: url("https://images-na.ssl-images-amazon.com/images/G/01/DiscoTec/2024/HomeLifestyle/HomeSummerFlip/Homepage/QuadCards/Home_Flip_Summer_2024_315_HP_NewArrivals_QuadCard_D_01_1x._SY116_CB555960040_.jpg");
+height: 200px;
+width: 300px;
+background-size: cover;
+background-repeat: no-repeat;
+margin-left: 25px;
+margin-top: 35px;}
+
+.box3 p{ color: #007185;
+margin-top: 27px;}
+
+
+.box-img4{background-image: url("https://images-na.ssl-images-amazon.com/images/G/01/melody/uploads/380413df-d427-4e76-b7f1-a3db4c9cf21d_MuseDesktop372X232_1X/AIS_FDay_2026_Fday_19_Muse_Prod_melody_homepage_372x232_1X._SY116_CB780691203_.jpg");
+height: 200px;
+width: 300px;
+background-size: cover;
+background-repeat: no-repeat;
+margin-left: 25px;
+margin-top: 35px;}
+
+.box4 p{ color: #007185;
+margin-top: 27px;}
+
+
+/**footer**/
+
+footer{margin-top: 15px;}
+
+.foot-panel1{background-color: #37475a;
+color: white;
+height: 50px;
+display: flex;
+align-items: center;
+justify-content: center;
+font-size: 0.85rem;}
+
+.foot-panel2{background-color: #222f3d;
+color: white;
+height: 500px;
+display: flex;
+justify-content: space-evenly;}
+
+ul p{font-size: 20px;}
+
+ul{margin-top: 20px;}
+
+ul a{display: block;
+font-size: 0.85rem;
+margin-top: 10px;
+color: #dddddd;}
+
+.foot-panel3{background-color:#222f3d ;
+color: white;
+border-top: 0.5px solid white;
+height: 70px;
+display: flex;
+justify-content: center;
+align-items: center;}
+
+.logo{background-image:url("https://logos-world.net/wp-content/uploads/2020/04/Amazon-Emblem.jpg");
+       background-size: cover; 
+       height:40px;
+       width:85px;}
+
+ .foot-panel4{background-color: #0f1111;
+color: white;
+height: 80px;
+/* display: flex;
+justify-content: center;
+align-items: center; */}
+
+.pages{font-size: 0.7rem;
+text-align: center;
+padding-top:25px ;}
+
+.copyright{font-size: 0.7rem;
+text-align: center;
+padding-top: 5px;}
+
+
+
+
