@@ -44,6 +44,9 @@ justify-content: space-evenly;}
 height: 40px;
 border-radius: 4px;}
 
+.nav-search:hover{border:2px solid orange;}
+
+
 .search-select{background-color: #f3f3f3;
 width: 50px;
 text-align: center;
@@ -67,3 +70,21 @@ color: #0f1111;}
 
 /**box4**/
 
+span{font-size: 0.7rem;}
+
+.nav-second{font-size: 0.85rem;
+font-weight: 700;}
+
+/**box6**/
+
+.nav-cart i {font-size:30px;}
+.nav-cart{font-size: 0.85rem;
+font-weight: 700;}
+
+/**LOGO LINE COMPLETE**/
+
+
+/**2nd LINE START panel**/ 
+
+.panel{height: 40px;
+background-color: #222f3d;}
